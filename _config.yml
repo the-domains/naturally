@@ -1,0 +1,14 @@
+name: 'Naturally '
+layout_spectrum: 0.6998729208316594
+typography_spectrum: 0.061932654375125185
+color:
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  brandStrength: 0.31977539559331714
+  lightness: 0.6717746652860441
+  saturation: 0.78411981125554
+  rhythmicContrast: 0.7304508097947728
